@@ -1,7 +1,7 @@
 {"name":"Weavechain",
  "DaoOS":"Snapshot",
  "address":"",
- "description":"Web3 data with GDPR/HIPAA compliance.  We make it easy by connecting to normal databases for storage, and providing normal API calls so that you can build the way you know. Key features: 1) Data Economies: Reward users with tokens for data, and use confidential computing to preserve individual privacy.2) Verifiability: Reproducibility by default with computational lineage. Immutability guarantees with blockchain anchors, simple API calls for Zero-Knowledge Proofs, Merkle Trees, and more.",
+ "description":"Web3 data with GDPR/HIPAA compliance.  We make it easy by connecting to normal databases for storage, and providing normal API calls so that you can build the way you know. Key features: 1) Data Economies: Reward users with tokens for data, and use confidential computing to preserve individual privacy. 2) Verifiability: Reproducibility by default with computational lineage. Immutability guarantees with blockchain anchors, simple API calls for Zero-Knowledge Proofs, Merkle Trees, and more.",
 "whitePaperLink":"https://docs.weavechain.com",
 "gallery":[{"name":"Intro",
 "description":"Intro",
